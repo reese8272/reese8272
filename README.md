@@ -11,7 +11,7 @@ Hi, I'm @reese8272, a 21-year-old aspiring programmer from the Eastern Panhandle
 
 ### How to Reach Me
 - **Email**: [reesepludwick@gmail.com](mailto:reesepludwick@gmail.com)
-- **LinkedIn**: [LinkedIn Profile](link)
+- **LinkedIn**: [LinkedIn Profile](https://www.linkedin.com/in/reese-ludwick-024333286/)
 
 ### Fun Fact
 I can solve a Rubik's cube in about 11 seconds!
