@@ -1,6 +1,6 @@
 # Reese P Ludwick
 
-Hi, I'm @reese8272, a 21-year-old aspiring programmer from the Eastern Panhandle of WV. I’m interested in sports (especially bowling and pole vault), Rubik's cubes, and constantly developing my learning habits.
+Hi, I'm @reese8272, a 22-year-old aspiring programmer from the Eastern Panhandle of WV. I’m interested in sports (especially bowling and pole vault), Rubik's cubes, and constantly developing my learning habits.
 
 ## Skills
 - **Languages**: Python, SQL
