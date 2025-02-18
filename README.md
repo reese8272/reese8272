@@ -11,9 +11,9 @@ Hi, I'm @reese8272, a 22-year-old aspiring programmer from the Eastern Panhandle
    - **Technologies Used**: Python, CyberSecurity Module, SQL
    - **Key Learnings**: Implementing fundamental knowledge of standard encryption methods, and how to implement those to a SQLite database, and lastly marrying those two through python.
 
-2. **[Personal Stack-Queue Project](https://github.com/reese8272/Personal-Stack-Queue-Project)**: This project implements stack and queue data structures in Python. It includes implementations for both simple and ring buffer versions of queues, along with a stack implementation.
-   - **Technologies Used**: Python, Jupyter Notebook
-   - **Key Learnings**: Implementing fundamental data structures, using Python's OOP features, writing tests in Jupyter Notebooks.
+2. **[Machine Learning Via MNIST Dataset](https://github.com/reese8272/mnist-cnn-project)**: This project uses the built in MNIST dataset from tensorflow to build a convolutional neural network. The neural network is built from scratch and trained on the dataset, and it implements a callback method for when the training reaches 99.5% training accuracy and a 95% testing accuracy.
+   - **Technologies Used**: Python, VS Code, TensorFlow
+   - **Key Learnings**: Implementing fundamental Machine Learning theory, working with the TensorFlow library, understanding key concepts of basic neural networks.
 
 ## How to Reach Me
 - **Email**: [reesepludwick@gmail.com](mailto:reesepludwick@gmail.com)
